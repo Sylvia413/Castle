@@ -8,7 +8,7 @@ Castle-城堡游戏
 * 这个程序接受以下指令
     *  go(后面必须加方向)
     *  bye
-    *  help
+    *  help
     *  east
     *  west
     *  south
